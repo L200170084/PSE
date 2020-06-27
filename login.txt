@@ -1,0 +1,10 @@
+Super admin :
+gio@gmail.com : Gio123
+
+Admin :
+bima@gmail.conm : Bima123
+
+Employee :
+- naufal@gmail.com : Naufal123
+- synta@gmail.com : Synta123
+- nafiah@gmail.com : Nafi123
